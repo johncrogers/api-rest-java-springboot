@@ -1,0 +1,7 @@
+Commands:
+    - Run application: ./mvnw spring-boot:run
+    - Run application (Fresh dependencies): ./mvnw clean spring-boot:run
+
+Resources:
+    - Documentation UI: http://localhost:8080/swagger-ui/index.html#/
+    - OpenAPI Definition: http://localhost:8080/v3/api-docs
